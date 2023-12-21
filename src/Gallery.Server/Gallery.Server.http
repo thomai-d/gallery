@@ -1,0 +1,6 @@
+@Gallery.Server_HostAddress = http://localhost:5000
+
+GET {{Gallery.Server_HostAddress}}/api/galleries/..%5C..%5Csecret
+Accept: application/json
+
+###
